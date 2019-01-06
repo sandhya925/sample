@@ -1,1 +1,2 @@
 this is sample text
+this is the sample text2 for the second commit.
